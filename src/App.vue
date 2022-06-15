@@ -15,7 +15,7 @@ export default {
   /**
    * The name of the application.
    */
-  name: 'VueBoilerplate',
+  name: 'Toikean',
 
   /**
    * Fires when the app has been mounted.
